@@ -1,6 +1,6 @@
-'''
 ## list the file in the current director ##
-PS C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry>ls
+
+'''PS C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry>ls
 
 
     Directory: C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry
@@ -55,4 +55,3 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 Try the new cross-platform PowerShell https://aka.ms/pscore6
 
 (project-1-py3.12) PS C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry\project_1>
-'''
