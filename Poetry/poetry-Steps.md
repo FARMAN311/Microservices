@@ -1,5 +1,6 @@
+'''
 ## list the file in the current director ##
-PS C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry> ls
+PS C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry>ls
 
 
     Directory: C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry
@@ -44,7 +45,7 @@ PS C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka
 Creating virtualenv project-1-mEEf4pgu-py3.12 in C:\Users\windows 10\AppData\Local\pypoetry\Cache\virtualenvs
 Python 3.12.1
 
-#### To activate poetry virtual enviroment you must be in the file where pyproject.tomel file is present then type "Poetry Shell in cmd" ####
+## To activate poetry virtual enviroment you must be in the file where pyproject.tomel file is present then type "Poetry Shell in cmd" ##
 PS C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry> cd project_1
 PS C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry\project_1> poetry shell
 Spawning shell within C:\Users\windows 10\AppData\Local\pypoetry\Cache\virtualenvs\project-1-mEEf4pgu-py3.12
@@ -54,3 +55,4 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 Try the new cross-platform PowerShell https://aka.ms/pscore6
 
 (project-1-py3.12) PS C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry\project_1>
+'''
