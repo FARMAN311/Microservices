@@ -55,3 +55,7 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 Try the new cross-platform PowerShell https://aka.ms/pscore6
 
 (project-1-py3.12) PS C:\Users\windows 10\Desktop\Git Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry\project_1>
+
+## adding packages to poetry enviroments 
+
+Hub\Microservices-Docker-Fastapi-Apache-kapka-Even-Driven-Architecture\Poetry\project_1>poetry add pandas
