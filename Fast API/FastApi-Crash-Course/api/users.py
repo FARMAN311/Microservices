@@ -24,8 +24,8 @@ async def create_user(user:User):
 
 @router.get('/user/{id}')
 async def get_user(
-    id : int = Path(...,description='the id of the user we want to retrive'),# gt=2 parameter with path used for >2
-    q : str = Query(None,max_length=5)
+    id : int ,
+    q : str
     ): 
     return {"user":users[id], "query":q}
 
